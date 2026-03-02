@@ -38,10 +38,9 @@ Built using Gradio:
 🌟 Key Features
 - Polluted vs Unpolluted soil classification
 - Microbial abundance comparison
-- Automated remediation suggestions
-- ![WhatsApp Image 2026-03-03 at 1 27 02 AM](https://github.com/user-attachments/assets/41e86b5f-4257-4a1c-b04e-d37a725cf8a5)
 - Interactive web dashboard
-
+- Automated remediation suggestions
+![WhatsApp Image 2026-03-03 at 1 27 02 AM](https://github.com/user-attachments/assets/41e86b5f-4257-4a1c-b04e-d37a725cf8a5)
 
 🔮 Future Enhancements
 - Multi-location soil dataset integration
