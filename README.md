@@ -24,6 +24,7 @@ Built using Gradio:
 - Generate prediction
 - View microbial comparison
 - Automatically generate remediation report
+![WhatsApp Image 2026-03-03 at 1 26 27 AM](https://github.com/user-attachments/assets/deadb58f-6e9f-44df-b0d6-2d99c0d4ba5d)
 
 🛠️ Technologies Used
 - Python
@@ -38,7 +39,9 @@ Built using Gradio:
 - Polluted vs Unpolluted soil classification
 - Microbial abundance comparison
 - Automated remediation suggestions
+- ![WhatsApp Image 2026-03-03 at 1 27 02 AM](https://github.com/user-attachments/assets/41e86b5f-4257-4a1c-b04e-d37a725cf8a5)
 - Interactive web dashboard
+
 
 🔮 Future Enhancements
 - Multi-location soil dataset integration
