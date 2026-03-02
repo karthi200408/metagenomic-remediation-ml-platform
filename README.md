@@ -16,7 +16,13 @@ This platform integrates:
 - Data normalization
 - Feature engineering
 - Classification model (e.g., Random Forest)
-- Model evaluation (Accuracy, F1-score, ROC-AUC)
+  
+📊 Model Performance
+The Random Forest classifier was evaluated using a train–test split approach.
+- Accuracy: 98%
+- AUROC: 0.967
+- Evaluation Metrics: Precision, Recall, F1-score, ROC Curve
+The model demonstrates strong discriminative performance in distinguishing polluted and unpolluted soil samples.
 
 🌐 Web Interface
 Built using Gradio:
